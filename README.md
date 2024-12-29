@@ -1,4 +1,3 @@
-Sure! Below is a **Requirement Specification Document** for your **Intrusion Detection System (IDS)** with both **Functional** and **Non-Functional Requirements**.
 
 ---
 
